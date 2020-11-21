@@ -2,9 +2,10 @@
   "name": "snakegame-backend",
   "version": "1.0.0",
   "description": "Simple express backend for react Snake Game",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
   },
   "keywords": [],
   "author": "",
